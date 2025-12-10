@@ -1,0 +1,4 @@
+Case Study 2: Version Control in Capstone Projects 
+A college implemented GitHub to manage final year capstone projects. Students used Git 
+Bash to commit changes regularly, enabling tracking of progress and avoiding data loss. 
+Faculty monitored repository commit logs to measure contribution levels.
