@@ -1,2 +1,4 @@
 print('Hello World')
-// This is a sample Python file for Gaurav's project.
+
+for i in range(0,100):
+    print(f"{i}th hello")
